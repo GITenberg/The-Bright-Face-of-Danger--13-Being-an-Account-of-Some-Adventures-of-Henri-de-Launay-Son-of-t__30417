@@ -20,6 +20,8 @@ creator:
     gutenberg_agent_id: '2907'
     url: http://www.gutenberg.org/2009/agents/2907
 description: 'Sequel to: An Enemy to the King, #9965.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30417#The-Bright-Face-of-Danger--13-Being-an-Account-of-Some-Adventures-of-Henri-de-Launay-Son-of-t_
 gutenberg_issued: '2009-11-07'
 gutenberg_type: Text
 identifiers:
