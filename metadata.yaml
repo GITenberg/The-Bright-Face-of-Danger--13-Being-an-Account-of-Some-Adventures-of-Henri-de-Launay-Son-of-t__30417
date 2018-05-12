@@ -1,0 +1,36 @@
+_repo: The-Bright-Face-of-Danger--13-Being-an-Account-of-Some-Adventures-of-Henri-de-Launay-Son-of-t__30417
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Edwards, H. C. (Harry C.)
+    alias: Edwards, Harry C.
+    birthdate: 1868
+    deathdate: 1922
+    gutenberg_agent_id: '34137'
+    url: http://www.gutenberg.org/2009/agents/34137
+covers:
+- cover_type: archival
+  image_path: 30417-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Stephens, Robert Neilson
+    alias: Stephens, R. N. (Robert Neilson)
+    birthdate: 1867
+    deathdate: 1906
+    gutenberg_agent_id: '2907'
+    url: http://www.gutenberg.org/2009/agents/2907
+description: 'Sequel to: An Enemy to the King, #9965.'
+gutenberg_issued: '2009-11-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30417'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Historical fiction'
+- !lcc 'PS'
+title: "The Bright Face of Danger\r\nBeing an Account of Some Adventures of Henri\
+  \ de Launay, Son of the Sieur de la Tournoire"
+url: http://www.gutenberg.org/ebooks/30417
